@@ -1,8 +1,8 @@
 name: Deploy my Lambda 
-  on: 
-    push:
-      brnaches: 
-        - main
+on: 
+  push:
+    brnaches: 
+      - main
   
 jobs: 
   build:
